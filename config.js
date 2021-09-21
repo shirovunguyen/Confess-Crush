@@ -1,20 +1,19 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    titleWeb: "Gửi heo mập yêu dấu của Vũ mập",
+    introTitle: 'Huyền heo kobe',
+    introDesc: `Hôm nay là trung thu
+    Vũ mập không tặng quà gì cho heo
+    Mà còn làm heo buồn nữa
+    Vũ mập xin lỗi heo nhiều nha`,
+    btnIntro: 'huhu',
+    title: 'Vũ mập muốn xin lỗi heo cũng như tặng heo món quà này',
+    desc: 'Mong heo tha thứ cho Vũ mập nha',
+    btnYes: 'Cảm ơn heo mập nhiều <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Hông được giận Vũ mập nữa nha',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    reply: 'Mỗi lần heo mập giận thấy buồn buồn sao á',
+    messDesc: 'Trung thu thật vui vẻ nha yêu heo mập nhiều
+    btnAccept: '<3',
+    messLink: '' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
